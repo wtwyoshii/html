@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+p.purple{
+    color: purple;
+}
+p.blue{
+    color: blue;
+}
+h1.gray{
+    color: gray;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+img.hi{
+    height: 100px;
+    width: 100px;
+}
