@@ -1,0 +1,6 @@
+input{
+    width: 100%;
+}
+input[type=password]{
+    border-radius: 20px;
+}
